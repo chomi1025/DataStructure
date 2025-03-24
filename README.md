@@ -5,7 +5,7 @@
  　
 ## 📚 자료구조 목록
 
-0. **기초개념(Basic Concepts)** (https://github.com/chomi1025/DataStructure/wiki/기초개념(Basic-Concepts))
+0. [**기초개념(Basic Concepts)**](#https://github.com/chomi1025/DataStructure/wiki/기초개념(Basic-Concepts))
 1. **배열 (Array)** (https://github.com/chomi1025/DataStructure/wiki/자료구조-‐-배열(Array))
 2. **연결 리스트 (Linked List)** (https://github.com/chomi1025/DataStructure/wiki/자료구조-‐-연결리스트(Linked-List))
 3. **스택 (Stack)** (https://github.com/chomi1025/DataStructure/wiki/자료구조-‐-스택(Stack))
