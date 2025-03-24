@@ -5,7 +5,7 @@
  　
 ## 📚 자료구조 목록
 
-1. **배열 (Array)** (<https://github.com/chomi1025/DataStructure/wiki/%EA%B8%B0%EC%B4%88%EA%B0%9C%EB%85%90(Basic-Concepts)>)
+1. **배열 (Array)** (기초개념(Basic Concepts))
 2. **연결 리스트 (Linked List)**
 3. **스택 (Stack)**
 4. **큐 (Queue)**
